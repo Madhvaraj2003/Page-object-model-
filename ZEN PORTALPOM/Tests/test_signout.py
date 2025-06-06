@@ -10,7 +10,7 @@ class TestSignout:
 # Performs the Sign-out action        
         login_page = LoginPage(self.driver)       
         logout_page = Signout_Page(self.driver)
-        login_page.login("madhva3@gmail.com", "Madhva@2003")
+        login_page.login("**********mail.com", "**********@2003")
         logout_page.signout()
        
          
