@@ -11,7 +11,7 @@ class TestLogin:
 # Initialize page object      
         login_page = LoginPage(self.driver)
 # Performs login        
-        login_page.login("madhva3@gmail.com", "Madhva@2003")
+        login_page.login("*******.com", ********@2003")
       
        
 
