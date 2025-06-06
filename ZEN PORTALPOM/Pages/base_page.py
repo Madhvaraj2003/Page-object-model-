@@ -29,5 +29,3 @@ class BasePage:
         element.clear()
         element.send_keys(text)
    
-    # def get_current_url(self):
-    #     return self.driver.current_url
